@@ -34,7 +34,12 @@ And in order to run that a.out file, we must execute on the terminal:
 
 ```terminal
 reinier@reinier % ./your_prefered_executable_file_name
+Enter a number (1 - 10): 33
+You must type a number between 1 & 10. Try again please.
+Enter a number (1 - 10): 7
+The Roman Numeral version of 7 is VII.
 
+Process finished with exit code 0
 reinier@reinier % 
 ```
 
