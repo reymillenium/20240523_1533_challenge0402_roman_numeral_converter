@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.28)
+project(20240523_1533_challenge0402_roman_numeral_converter)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(20240523_1533_challenge0402_roman_numeral_converter main.cpp)
